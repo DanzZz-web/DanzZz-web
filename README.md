@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-### 📩 Let's Connect & Support:
+### ☕ Support Me With:
 <div align="center">
   <a href="https://www.instagram.com/dan_skann" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
