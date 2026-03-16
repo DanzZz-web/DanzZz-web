@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=DanzZz-web&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
   
   <h3>"Ketika logika sudah bertindak, di situ perasaan tidak ada gunanya" </h3>
-  <p><i>Building digital experiences with cold logic and clean code.</i></p>
+  <p><i>Building website with me alone</i></p>
   
   <br/>
 
@@ -14,7 +14,7 @@
 
 ### 🚀 Tech Universe
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,py,cpp,firebase,figma,github,vscode,canva&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,canva&perline=6" />
 </div>
 
 ---
